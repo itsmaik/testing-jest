@@ -1,0 +1,26 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "Testing environment with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsmaik/testing-jest.git"
+  },
+  "keywords": [
+    "testing",
+    "unit-test"
+  ],
+  "author": "Maik Helland Olsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmaik/testing-jest/issues"
+  },
+  "homepage": "https://github.com/itsmaik/testing-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}

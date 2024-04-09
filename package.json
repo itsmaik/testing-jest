@@ -1,6 +1,6 @@
 {
   "name": "testing-jest",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Testing environment with jest",
   "main": "index.js",
   "scripts": {
